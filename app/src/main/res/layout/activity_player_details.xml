@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".PlayerDetails">
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_centerInParent="true"
+        android:id="@+id/imagesakib"
+        android:src="@drawable/sakib"
+        android:visibility="gone"
+        android:layout_marginTop="5dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp">
+
+    </ImageView>
+
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/imagemusfiq"
+            android:src="@drawable/musgiq2"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+
+        </ImageView>
+
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/imagemasrafi"
+            android:src="@drawable/masrafi"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+
+        </ImageView>
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/imagetaskin"
+            android:src="@drawable/taskin"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+
+        </ImageView>
+
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/imagetamim"
+            android:src="@drawable/tamim3"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+
+        </ImageView>
+
+
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/imageriad"
+            android:src="@drawable/riad"
+            android:visibility="gone"
+            android:layout_marginTop="5dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp">
+
+        </ImageView>
+
+
+
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/detalsTV"
+        android:textColor="#000"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="5dp"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </TextView>
+</LinearLayout>

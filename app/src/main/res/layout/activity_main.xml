@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:weightSum="3"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="2"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_height="0dp">
+
+
+        <ImageView
+            android:id="@+id/sakibIV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+           android:src="@drawable/sakib">
+
+
+        </ImageView>
+        <ImageView
+            android:id="@+id/masrafiIV"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/masrafi">
+
+
+        </ImageView>
+
+
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="2"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_height="0dp">
+
+
+        <ImageView
+            android:id="@+id/musfiqIV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@drawable/musgiq2">
+
+
+        </ImageView>
+        <ImageView
+            android:id="@+id/riadIV"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/riad">
+
+
+        </ImageView>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="2"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_height="0dp">
+
+
+        <ImageView
+            android:id="@+id/taskinIV"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@drawable/taskin">
+
+
+        </ImageView>
+        <ImageView
+            android:id="@+id/tamimIV"
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:src="@drawable/tamim3">
+
+
+        </ImageView>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

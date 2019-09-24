@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BDPlayerDetails</string>
+
+
+    <string name="sakib">
+        \n\nFull Name	: Shakib Al Hasan
+        \n\nBorn : March 24, 1987
+        \n\nAge : 32 Years, 6 Months, 2 Days
+        \n\nBatting Style : Left Handed
+        \n\nBowling Style :	Slow left-arm orthodox
+    </string>
+
+    <string name="masrafi">
+
+	   \n \nFull Name : Mashrafe Bin Mortaza
+       \n \nBorn : October 5, 1983
+       \n \nAge :	35 Years, 11 Months, 19 Days
+       \n \nBatting Style : Right Handed
+       \n \nBowling Style : Right-arm fast medium
+
+    </string>
+
+    <string name="musfiq">
+    \n \nFull Name : Mohammad Mushfiqur Rahim
+    \n  \nBorn : June 9, 1987
+       \n \nAge : 32 Years, 3 Months, 16 Days
+        \n \nBatting Style : Right Handed
+
+
+    </string>
+
+    <string name="taskin">
+        \n \nFull Name : Taskin Ahmed
+        \n  \nBorn : Mar 04, 1995
+        \n \nAge : 24 years
+        \n \nRole : Bowler
+        \n \nBatting Style : Left Handed
+        \n \nBowling Style : Right-arm fast-medium
+    </string>
+
+    <string name="riad">
+
+      \n  \nFull Name : Mohammad Mahmudullah
+        \n \nBorn : February 4, 1986
+        \n \nAge : 33 Years, 7 Months, 19 Days
+         \n\nBatting Style : Right Handed
+         \n\nBowling Style :	Off break
+
+    </string>
+
+    <string name="tamim">
+
+        \n  \nFull Name : Tamim Iqbal Khan
+        \n  \nBorn : March 20, 1989
+         \n\nAge : 30 Years, 6 Months, 6 Days
+        \n \nBatting Style : Left Handed
+         \n \nBowling Style : Off break
+    </string>
+</resources>
